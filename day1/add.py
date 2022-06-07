@@ -1,8 +1,8 @@
-num1 = 20
-num2 = 30.05
-name = "kushal"
-male = True
-female = False
+num1 = 20  #integer
+num2 = 30.05 #float
+name = "kushal" #string
+male = True  #boolean
+female = False  #boolean
 sum = num1+num2
 print(sum)
 print(type(num1))
